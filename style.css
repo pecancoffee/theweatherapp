@@ -1,0 +1,40 @@
+h1 {
+    color: #61d4b3;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.weather-specifics {
+    position: fixed;
+    top: 50px;
+    left: 500px;
+    font-size: 15px;
+    list-style: none;
+}
+
+.search-location {
+    padding-right: 600px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.btn btn-primary {
+    display: block;
+    padding-left: 50px;
+}
+
+.row {
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.card.border-primary.mb-3 {
+    color: red;
+}
+
+.card-header {
+    color: #61d4b3;
+    background: #fdd365;
+}
